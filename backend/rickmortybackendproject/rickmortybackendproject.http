@@ -1,0 +1,6 @@
+@rickmortybackendproject_HostAddress = http://localhost:5133
+
+GET {{rickmortybackendproject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
